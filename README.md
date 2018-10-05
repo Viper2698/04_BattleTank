@@ -1,4 +1,4 @@
-# 04_BattleGame
+﻿# 04_BattleGame
 Simple open world battle game with simple IA in Unreal Engine 4 with C++
 
 ---
@@ -33,3 +33,4 @@ Simple open world battle game with simple IA in Unreal Engine 4 with C++
 * BG01 Intro, Notes, and Start
 * BG02 Game Design Document : Rules and Concepts
 * BG03 Setting up GitHub
+Hello
